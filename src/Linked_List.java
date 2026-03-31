@@ -15,6 +15,7 @@ public class Linked_List {
         list.pop();
 System.out.println(list);
  */
+        // linkedlist using queue
         list.offer("A");
         list.offer("B");
         list.offer("C");
@@ -29,6 +30,8 @@ System.out.println(list);
         list.addLast("G");
 
         System.out.println(list);
+
+
 
 
 
