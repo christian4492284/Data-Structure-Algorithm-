@@ -36,6 +36,10 @@ public class Stacks {
         System.out.println(stack.search("Borderlands"));
 
 
+        //PUSHING ITEMS N TIMES
+        for (int i = 0; i < 1000000000; i++){
+            stack.push("fallout76");
+        }
 
 
 
